@@ -1,0 +1,5 @@
+Name: Mannat Jain
+Roll No: IIT2025262
+Branch: IT
+Github Username: mannatjain11465-netizen
+One line about me: BTech IT student at IIIT Allahabad with a strong interest in problem-solving, competitive programming, and open source.
